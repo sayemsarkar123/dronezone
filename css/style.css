@@ -292,7 +292,7 @@ section#second-part .col-25:nth-child(4) img {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  padding: 205px;
+  padding: 243px;
 }
 
 .nature-content {
@@ -330,7 +330,7 @@ a.price-btn {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  padding: 205px;
+  padding: 243px;
 }
 
 .city-content {
@@ -386,11 +386,11 @@ a.city-btn {
 }
 
 .naturel {
-  height: 410px;
+  height: 486px;
 }
 
 .country {
-  height: 410px;
+  height: 486px;
 }
 
 section#newsletter h3 {
@@ -437,7 +437,7 @@ section#newsletter a {
 }
 
 .footer {
-  height: 390px;
+  height: 290px;
   text-align: center;
   padding-top: 70px;
   font-size: 18px;
@@ -509,8 +509,6 @@ section#footer p {
   font-size: 14px;
 }
 
-.info-1 ul li poin:first-child p {}
-
 .info-points ul li {
   padding-bottom: 38px;
 }
@@ -523,6 +521,7 @@ section#footer p {
   position: absolute;
   padding-left: 40px;
 }
+
 .info-points {
-    padding-bottom: 60px;
+  padding-bottom: 60px;
 }
